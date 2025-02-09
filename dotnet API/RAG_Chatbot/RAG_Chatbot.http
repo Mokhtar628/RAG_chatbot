@@ -1,0 +1,6 @@
+@RAG_Chatbot_HostAddress = http://localhost:5042
+
+GET {{RAG_Chatbot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

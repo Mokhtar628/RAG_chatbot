@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PuEYZEE2tPcv66Sqk21uIxbxX7eJ4/xHfDqFh+B584I=",
+  "Source": "RAG_Chatbot",
+  "BasePath": "_content/RAG_Chatbot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

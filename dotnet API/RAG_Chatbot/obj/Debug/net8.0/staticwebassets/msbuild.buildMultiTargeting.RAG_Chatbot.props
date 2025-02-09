@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RAG_Chatbot.props" />
+</Project>
