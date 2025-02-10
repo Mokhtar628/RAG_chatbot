@@ -1,7 +1,7 @@
 # app.py
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-from rag_pipeline import get_answer
+from services.rag_pipeline import get_answer
 
 app = FastAPI(title="RAG Chatbot Backend")
 
