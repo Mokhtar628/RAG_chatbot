@@ -15,8 +15,7 @@ namespace Chatbot.Api.Services
 
         public async Task<QueryResponse> SendQueryAsync(string question)
         {
-            // Assuming the Python backend expects a JSON with a "question" property.
-            var response = await _httpClient.PostAsJsonAsync("http://localhost:8000/ask", new { question });
+            var response = await _httpClient.PostAsJsonAsync("/ask", new { question });
             response.EnsureSuccessStatusCode();
             return await response.Content.ReadFromJsonAsync<QueryResponse>();
         }

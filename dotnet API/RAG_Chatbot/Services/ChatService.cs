@@ -16,10 +16,8 @@ namespace Chatbot.Api.Services
 
         public async Task<QueryResponse> ProcessQueryAsync(QueryRequest request)
         {
-            // Call the Python backend to get the answer
             QueryResponse response = await _pythonBackendClient.SendQueryAsync(request.Question);
 
-            // Log the interaction in the database
             var chatLog = new ChatLog
             {
                 UserId = "anonymous",  // Default until auth is implemented
@@ -30,7 +28,6 @@ namespace Chatbot.Api.Services
             _dbContext.ChatLogs.Add(chatLog);
             await _dbContext.SaveChangesAsync();
 
-            // Return the response to the caller
             return response;
         }
     }

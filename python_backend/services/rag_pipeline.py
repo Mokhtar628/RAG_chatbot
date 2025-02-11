@@ -7,7 +7,7 @@
 from langchain_huggingface import HuggingFacePipeline
 from langchain.chains import RetrievalQA
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
-from vectorstore import get_vectorstore
+from services.vectorstore import get_vectorstore
 import torch
 
 

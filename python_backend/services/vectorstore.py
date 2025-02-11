@@ -41,7 +41,7 @@ def build_vectorstore(data_dir="../data"):
     vectorstore = FAISS.from_documents(docs, embeddings)
     return vectorstore
 
-def get_vectorstore(store_path="../vector_database/vectorstore.pkl", data_dir="../data"):
+def get_vectorstore(store_path="vector_database/vectorstore.pkl", data_dir="data"):
     if os.path.exists(store_path):
         print("Loading saved vector store...")
         with open(store_path, "rb") as f:

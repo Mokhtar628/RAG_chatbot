@@ -4,6 +4,17 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
+// Load configuration from appsettings.json
+var pythonBackendUrl = builder.Configuration["PythonBackend:BaseUrl"]
+                       ?? throw new InvalidOperationException("PythonBackend URL is missing.");
+
+// Register HttpClient with the configured base URL
+builder.Services.AddHttpClient<IPythonBackendClient, PythonBackendClient>(client =>
+{
+    client.BaseAddress = new Uri(pythonBackendUrl);
+});
+
 // Add services to the container.
 
 builder.Services.AddControllers();
