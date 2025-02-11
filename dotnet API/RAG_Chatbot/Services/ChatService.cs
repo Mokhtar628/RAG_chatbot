@@ -1,17 +1,18 @@
 ﻿using Chatbot.Api.Data;
 using Chatbot.Api.Models;
+using Chatbot.Api.Repositories;
 
 namespace Chatbot.Api.Services
 {
     public class ChatService : IChatService
     {
         private readonly IPythonBackendClient _pythonBackendClient;
-        private readonly ChatbotDbContext _dbContext;
+        private readonly IChatLogRepository _chatLogRepository;
 
-        public ChatService(IPythonBackendClient pythonBackendClient, ChatbotDbContext dbContext)
+        public ChatService(IPythonBackendClient pythonBackendClient, IChatLogRepository chatLogRepository)
         {
             _pythonBackendClient = pythonBackendClient;
-            _dbContext = dbContext;
+            _chatLogRepository = chatLogRepository;
         }
 
         public async Task<QueryResponse> ProcessQueryAsync(QueryRequest request)
@@ -25,8 +26,7 @@ namespace Chatbot.Api.Services
                 Answer = response.Answer
             };
 
-            _dbContext.ChatLogs.Add(chatLog);
-            await _dbContext.SaveChangesAsync();
+            await _chatLogRepository.SaveChatLogAsync(chatLog);
 
             return response;
         }

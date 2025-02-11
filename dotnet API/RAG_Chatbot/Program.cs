@@ -1,4 +1,5 @@
 using Chatbot.Api.Data;
+using Chatbot.Api.Repositories;
 using Chatbot.Api.Services;
 using Microsoft.EntityFrameworkCore;
 
@@ -32,6 +33,8 @@ builder.Services.AddCors(options =>
 // Configure EF Core with SQLite (adjust the connection string as needed)
 builder.Services.AddDbContext<ChatbotDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddScoped<IChatLogRepository, ChatLogRepository>();
+builder.Services.AddScoped<IChatService, ChatService>();
 
 // Register the Python backend client as a typed HttpClient.
 builder.Services.AddHttpClient<IPythonBackendClient, PythonBackendClient>();
