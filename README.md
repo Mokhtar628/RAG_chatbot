@@ -24,7 +24,8 @@ This project is an **intelligent chatbot** that seamlessly integrates **.NET Web
 ✅ Uses **LangChain** to **embed and index text documents** for retrieval.  
 ✅ Implements a **RAG pipeline**:  
    - **Retrieve:** Finds relevant text chunks from the documents.  
-   - **Generate:** Uses an **FLAN-T5** to form a meaningful response.  
+   - **Generate:** Uses an **FLAN-T5** to form a meaningful response.
+  
 ✅ Returns accurate responses to the .NET API.  
 
 ### **🗄️ SQL Database (Logging & Analysis)**  
