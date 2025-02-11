@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\",
+  "WorkspaceRootPath": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\rag_chatbot\\dotnet api\\rag_chatbot\\services\\pythonbackendclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\ldc\\rag_chatbot\\dotnet api\\rag_chatbot\\services\\pythonbackendclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|solutionrelative:rag_chatbot\\services\\pythonbackendclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\rag_chatbot\\dotnet api\\rag_chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|solutionrelative:rag_chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\ldc\\rag_chatbot\\dotnet api\\rag_chatbot\\services\\ipythonbackendclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|solutionrelative:rag_chatbot\\services\\ipythonbackendclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\rag_chatbot\\dotnet api\\rag_chatbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|solutionrelative:rag_chatbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\ldc\\rag_chatbot\\dotnet api\\rag_chatbot\\services\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|solutionrelative:rag_chatbot\\services\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\rag_chatbot\\dotnet api\\rag_chatbot\\models\\chatlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|solutionrelative:rag_chatbot\\models\\chatlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\ldc\\rag_chatbot\\dotnet api\\rag_chatbot\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|solutionrelative:rag_chatbot\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\rag_chatbot\\dotnet api\\rag_chatbot\\data\\chatbotdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\ldc\\rag_chatbot\\dotnet api\\rag_chatbot\\data\\chatbotdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|solutionrelative:rag_chatbot\\data\\chatbotdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\rag_chatbot\\dotnet api\\rag_chatbot\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\ldc\\rag_chatbot\\dotnet api\\rag_chatbot\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|solutionrelative:rag_chatbot\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\ldc\\rag_chatbot\\dotnet api\\rag_chatbot\\models\\chatlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|solutionrelative:rag_chatbot\\models\\chatlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\ldc\\rag_chatbot\\dotnet api\\rag_chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|solutionrelative:rag_chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|d:\\fcih mohammed\\tasks\\ldc\\rag_chatbot\\dotnet api\\rag_chatbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76129AF5-E0D6-4F52-9800-0C1576AEDE42}|RAG_Chatbot\\RAG_Chatbot.csproj|solutionrelative:rag_chatbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +46,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\RAG_Chatbot\\Program.cs",
-              "RelativeDocumentMoniker": "RAG_Chatbot\\Program.cs",
-              "ToolTip": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\RAG_Chatbot\\Program.cs",
-              "RelativeToolTip": "RAG_Chatbot\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Title": "IPythonBackendClient.cs",
+              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Services\\IPythonBackendClient.cs",
+              "RelativeDocumentMoniker": "RAG_Chatbot\\Services\\IPythonBackendClient.cs",
+              "ToolTip": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Services\\IPythonBackendClient.cs",
+              "RelativeToolTip": "RAG_Chatbot\\Services\\IPythonBackendClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T10:01:23.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T10:07:24.386Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Services\\IChatService.cs",
+              "RelativeDocumentMoniker": "RAG_Chatbot\\Services\\IChatService.cs",
+              "ToolTip": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Services\\IChatService.cs",
+              "RelativeToolTip": "RAG_Chatbot\\Services\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:07:22.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "RAG_Chatbot\\Services\\ChatService.cs",
+              "ToolTip": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Services\\ChatService.cs",
+              "RelativeToolTip": "RAG_Chatbot\\Services\\ChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:06:53.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Program.cs",
+              "RelativeDocumentMoniker": "RAG_Chatbot\\Program.cs",
+              "ToolTip": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Program.cs",
+              "RelativeToolTip": "RAG_Chatbot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:01:23.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\RAG_Chatbot\\appsettings.json",
+              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\appsettings.json",
               "RelativeDocumentMoniker": "RAG_Chatbot\\appsettings.json",
-              "ToolTip": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\RAG_Chatbot\\appsettings.json",
+              "ToolTip": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\appsettings.json",
               "RelativeToolTip": "RAG_Chatbot\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-11T09:59:30.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T09:59:30.961Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PythonBackendClient.cs",
-              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\RAG_Chatbot\\Services\\PythonBackendClient.cs",
+              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Services\\PythonBackendClient.cs",
               "RelativeDocumentMoniker": "RAG_Chatbot\\Services\\PythonBackendClient.cs",
-              "ToolTip": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\RAG_Chatbot\\Services\\PythonBackendClient.cs",
+              "ToolTip": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Services\\PythonBackendClient.cs",
               "RelativeToolTip": "RAG_Chatbot\\Services\\PythonBackendClient.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T09:56:11.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ChatLog.cs",
-              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\RAG_Chatbot\\Models\\ChatLog.cs",
+              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Models\\ChatLog.cs",
               "RelativeDocumentMoniker": "RAG_Chatbot\\Models\\ChatLog.cs",
-              "ToolTip": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\RAG_Chatbot\\Models\\ChatLog.cs",
+              "ToolTip": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Models\\ChatLog.cs",
               "RelativeToolTip": "RAG_Chatbot\\Models\\ChatLog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T09:49:11.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T09:49:11.698Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ChatbotDbContext.cs",
-              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\RAG_Chatbot\\Data\\ChatbotDbContext.cs",
+              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Data\\ChatbotDbContext.cs",
               "RelativeDocumentMoniker": "RAG_Chatbot\\Data\\ChatbotDbContext.cs",
-              "ToolTip": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\RAG_Chatbot\\Data\\ChatbotDbContext.cs",
+              "ToolTip": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Data\\ChatbotDbContext.cs",
               "RelativeToolTip": "RAG_Chatbot\\Data\\ChatbotDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T09:48:47.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T09:48:47.549Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ChatController.cs",
-              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\RAG_Chatbot\\Controllers\\ChatController.cs",
+              "DocumentMoniker": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Controllers\\ChatController.cs",
               "RelativeDocumentMoniker": "RAG_Chatbot\\Controllers\\ChatController.cs",
-              "ToolTip": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\RAG_Chatbot\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\Controllers\\ChatController.cs",
               "RelativeToolTip": "RAG_Chatbot\\Controllers\\ChatController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T11:00:41.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T11:00:41.267Z"
             }
           ]
         }

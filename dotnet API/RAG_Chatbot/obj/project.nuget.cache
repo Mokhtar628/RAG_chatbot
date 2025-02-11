@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nC/3OLMg4kQ=",
+  "dgSpecHash": "wcyuo4nChbE=",
   "success": true,
-  "projectFilePath": "D:\\FCIH Mohammed\\tasks\\rag_chatbot\\dotnet API\\RAG_Chatbot\\RAG_Chatbot.csproj",
+  "projectFilePath": "D:\\FCIH Mohammed\\tasks\\LDC\\RAG_chatbot\\dotnet API\\RAG_Chatbot\\RAG_Chatbot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohamed Mokhtar\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Mohamed Mokhtar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
